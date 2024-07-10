@@ -17,6 +17,12 @@ class ViewController: UIViewController {
 
     }
 
+    
+    func needItems() {
+        var items = 0
+        var element = 15
+        
+    }
 
 }
 
